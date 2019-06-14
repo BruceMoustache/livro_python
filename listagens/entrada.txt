@@ -1,0 +1,6 @@
+;texto de demonstração
+*BOM dia!!
+>TUDO BOM?
+<Meu nome é Garry
+;FIM
+
