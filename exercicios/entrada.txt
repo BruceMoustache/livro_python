@@ -1,0 +1,8 @@
+;texto de demonstração
+*BOM dia!!
+.py
+>TUDO BOM?
+<Meu nome é Garry
+;FIM
+=oal
+
